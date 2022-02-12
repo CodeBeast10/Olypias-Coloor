@@ -1,0 +1,19 @@
+body {
+	text-align: center;
+}
+h1
+{
+	color: blue; 
+	font-size: 40px;
+}
+.rl_background {
+	background-image:url("bg1.jpg") ;
+	background-position: center; 
+	background-size: cover; 
+}
+
+#myCanvas{
+border-width: 10px; 
+border-color: rgb(7, 246, 226); 
+border-style: double;
+}
